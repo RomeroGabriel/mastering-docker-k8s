@@ -1,0 +1,40 @@
+.md-container {
+    background-color: #92450e;
+}
+
+.md-typeset h1 {
+    font-size: 2.5em;
+    font-weight: 700;
+}
+
+.md-typeset h2 {
+    font-size: 2em;
+    font-weight: 700;
+}
+
+.md-typeset h3 {
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+strong {
+    font-weight: 900;
+    font-size: 1.0rem;
+}
+
+.md-typeset code {
+    font-weight: 900;
+    font-size: .95em;
+}
+
+.md-typeset details.example {
+    border-color: #ffcb00;
+}
+
+.md-typeset summary {
+    background-color: #000000c2 !important;
+}
+
+.md-typeset .example > summary::before, .md-typeset .example > summary::after {
+    background-color: #ffcb00;
+}
