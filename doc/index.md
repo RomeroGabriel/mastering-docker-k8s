@@ -1,1 +1,3 @@
-# Index
+# Home
+
+Template repository.
